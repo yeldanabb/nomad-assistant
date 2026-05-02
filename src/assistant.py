@@ -1,5 +1,5 @@
 from groq import Groq
-from retrieve import retrieve
+from .retrieve import retrieve
 import os
 from dotenv import load_dotenv
 load_dotenv()
