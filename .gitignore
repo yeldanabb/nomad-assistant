@@ -1,0 +1,6 @@
+data/
+venv/
+vectorstore/
+__pycache__/
+*.py[cod]
+*.log

@@ -1,0 +1,6 @@
+torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers~=3.0
+chromadb~=0.5
+python-docx~=1.1
+streamlit~=1.38
+groq~=0.11
